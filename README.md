@@ -10,7 +10,7 @@ Full innovation credits for this lab goes to [XINTRA's team](https://www.xintra.
 More information about the labs can be found [here](https://www.xintra.org/labs).
 
 ## Repo:
-This time around, I've uploaded the walkthrough as one [singular scroll](https://github.com/Ragmthy/Xintra_Council_of_TropicalAffairs/blob/main/CoTA%20Lab%20Walkthrough%20-%20Complete.md) 📜 It can be read entirely here.
+This time around, I've uploaded the walkthrough as one [singular scroll](https://github.com/Ragmthy/Xintra_Abu_Jibal_OC_Walkthrough/blob/main/Abu%20Jibal%20OC%20Walkthrough%20-%20Completed.md) 📜 It can be read entirely here.
 
 ### Extra Resources that helped along the way: 
 1. [TrendMicro's blog](https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks.html) on the Threat Actor's TTPs and toolkits the lab was designed from
