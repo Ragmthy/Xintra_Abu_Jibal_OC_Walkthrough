@@ -323,8 +323,6 @@ The other interesting thing is that this PsExec file was also observed in the sa
 
 ![image](lab_qn_images/36_ngrok_destination.jpg)
 
-While the logs hadn't explicitly shown a movement of this file into this folder *Ok, I don't know how to proceed with this. Will await for tmechen's or Renzon's words*
-
 Onwards to the next section ~ the Sneaky JS Backdoor. 
 
 ### Section 2j: Sneaky JS Backdoor
@@ -420,6 +418,7 @@ There is a prepared archive, called `Logs.zip`, and when briefly looking into it
 That's why, with a high confidence, it is possible to establish that `Logs.zip` in this `.temp` folder in AJOC-DC01 is what the TA prepared to exfiltrate out. 
 
 *~~ And that concludes this Abu Jibal Oil Co. Lab!*
+
 
 
 
